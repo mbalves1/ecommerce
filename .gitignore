@@ -1,0 +1,10 @@
+# Arquivos temporários
+*.tmp
+*.pyc
+*.log
+
+# Ambientes virtuais
+.venv/
+
+# Dados de inicialização
+instance/
